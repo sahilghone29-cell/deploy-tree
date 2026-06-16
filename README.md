@@ -29,7 +29,7 @@ npm run dev
 ```
 
 Open **http://localhost:5173** in your browser.
-🚀 Deploy Tree: deploy-tree.vercel.app
+🚀 Deploy Tree: https:/deploy-tree.vercel.app
 ```bash
 npm run build    # Production build
 npm run preview  # Preview production build
