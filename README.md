@@ -90,15 +90,6 @@ src/
 | Warning | #F59E0B |
 | Danger | #EF4444 |
 
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 6 15 47 PM" src="https://github.com/user-attachments/assets/3709656c-8a3f-4657-82c8-4dca51ec458b" />
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 6 07 53 PM" src="https://github.com/user-attachments/assets/0605aa18-0aa5-4f41-87ea-f19fae36b6fd" />
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 6 07 28 PM" src="https://github.com/user-attachments/assets/ba83d003-56f9-4059-a111-e1c6f3d7db1b" />
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 6 07 20 PM" src="https://github.com/user-attachments/assets/f458da48-4a43-41ca-9873-febc809c1818" />
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 6 06 59 PM" src="https://github.com/user-attachments/assets/ffc7ac28-2620-4d70-a3f1-b18d0667205f" />
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 5 00 51 PM" src="https://github.com/user-attachments/assets/be3de423-47ef-4c1a-a501-7f1094c658e8" />
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 4 59 49 PM" src="https://github.com/user-attachments/assets/7091780a-7bc9-4859-9a6d-82367f2a594d" />
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 4 59 22 PM" src="https://github.com/user-attachments/assets/7c4556f0-6573-4712-8a5b-5fff3567e431" />
-<img width="1469" height="841" alt="Screenshot 2026-06-17 at 4 54 17 PM" src="https://github.com/user-attachments/assets/0367d9f2-4b77-4246-9f36-1c2efab3687a" />
 
 
 
