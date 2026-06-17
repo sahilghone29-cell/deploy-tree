@@ -1,13 +1,13 @@
-<img width="1469" height="841" alt="dashboard" src="https://github.com/user-attachments/assets/daaf2860-17d3-451b-84d6-cbd04efc0467" />
-<img width="1469" height="841" alt="task-queue" src="https://github.com/user-attachments/assets/64248491-5bce-4979-92ea-3d58cba01d78" />
-<img width="1469" height="841" alt="file-sorter" src="https://github.com/user-attachments/assets/b35d8657-0c51-4a31-9b8f-b51027f7a51f" />
-<img width="1469" height="841" alt="file-checker" src="https://github.com/user-attachments/assets/71f73262-36d9-4db8-a067-a49eaf2566d8" />
+<img width="1200" height="841" alt="dashboard" src="https://github.com/user-attachments/assets/daaf2860-17d3-451b-84d6-cbd04efc0467" />
+<img width="1200" height="841" alt="task-queue" src="https://github.com/user-attachments/assets/64248491-5bce-4979-92ea-3d58cba01d78" />
+<img width="1200" height="841" alt="file-sorter" src="https://github.com/user-attachments/assets/b35d8657-0c51-4a31-9b8f-b51027f7a51f" />
+<img width="1200" height="841" alt="file-checker" src="https://github.com/user-attachments/assets/71f73262-36d9-4db8-a067-a49eaf2566d8" />
 
-<img width="1469" height="841" alt="code-structure" src="https://github.com/user-attachments/assets/5e538073-d8ce-47d7-a38d-deda3f555e67" />
-<img width="1469" height="841" alt="code-link-hub" src="https://github.com/user-attachments/assets/8c342516-e7f2-47fc-8a32-9513dafc245f" />
-<img width="1469" height="841" alt="build-finder" src="https://github.com/user-attachments/assets/24a53d6c-8e4d-49a8-ac48-7fd07ecddd65" />
-<img width="1469" height="841" alt=" cpu-balancer" src="https://github.com/user-attachments/assets/36ca22e8-ba9f-4be4-9dea-7fe9eab816d5" />
-<img width="1469" height="841" alt=" build-errors" src="https://github.com/user-attachments/assets/3fe8fffd-19aa-4d03-8f72-0d2054fd2bdd" />
+<img width="1200" height="841" alt="code-structure" src="https://github.com/user-attachments/assets/5e538073-d8ce-47d7-a38d-deda3f555e67" />
+<img width="1200" height="841" alt="code-link-hub" src="https://github.com/user-attachments/assets/8c342516-e7f2-47fc-8a32-9513dafc245f" />
+<img width="1200" height="841" alt="build-finder" src="https://github.com/user-attachments/assets/24a53d6c-8e4d-49a8-ac48-7fd07ecddd65" />
+<img width="1200" height="841" alt=" cpu-balancer" src="https://github.com/user-attachments/assets/36ca22e8-ba9f-4be4-9dea-7fe9eab816d5" />
+<img width="1200" height="841" alt=" build-errors" src="https://github.com/user-attachments/assets/3fe8fffd-19aa-4d03-8f72-0d2054fd2bdd" />
 # DeployTree — Build & Compilation Management Dashboard
 
 **B.Tech CSE — Semester II Project**
